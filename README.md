@@ -26,6 +26,11 @@ This experiment was conducted using firmware decryption scripts from the drone h
 
 ## 3. Cross-Compiling Android-AFL for Fuzzing
 
+- Modifying Makefile for cross-compiling.
+
+<img width="582" height="159" alt="image" src="https://github.com/user-attachments/assets/d2af95a5-137f-4994-ae53-b55d490a2d59" />
+
+
 - Used the following command to cross-compile [**android-afl**](https://github.com/ele7enxxh/android-afl):
 
 ```bash
